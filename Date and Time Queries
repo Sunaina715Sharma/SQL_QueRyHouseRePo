@@ -1,0 +1,2 @@
+Get current date and time.
+from datetime import date
