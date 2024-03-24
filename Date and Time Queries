@@ -1,4 +1,9 @@
 Get current date and time.
 from datetime import date
-toady=date.today()
+today=date.today()
 print("Today's Date is : ",today)
+
+
+
+
+from datetime import datetime as dt
